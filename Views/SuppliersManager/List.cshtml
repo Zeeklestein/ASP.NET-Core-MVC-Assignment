@@ -1,0 +1,56 @@
+@model List<Suppliers>
+
+
+<h2>List of Suppliers</h2>
+
+<h2 class="message">@TempData["Message"]</h2>
+
+<a asp-controller="SuppliersManager" 
+   asp-action="Insert" 
+   class="linkbutton">Insert</a>
+
+<br /><br />
+
+<table border="1">
+    <tr>
+        <th>Supplier ID</th>
+        <th>Company Name</th>
+        <th>Contact Name</th>
+        <th>Contact Title</th>
+        <th>Address</th>
+        <th>City</th>
+        <th>Region</th>
+        <th>Postal Code</th>
+        <th>Country</th>
+        <th>Phone</th>
+        <th>Fax</th>
+        <th colspan="2">Actions</th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.SupplierID</td>
+            <td>@item.CompanyName</td>
+            <td>@item.ContactName</td>
+            <td>@item.ContactTitle</td>
+            <td>@item.Address</td>
+            <td>@item.City</td>
+            <td>@item.Region</td>
+            <td>@item.PostalCode</td>
+            <td>@item.Country</td>
+            <td>@item.Phone</td>
+            <td>@item.Fax</td>
+
+            <td>
+                <a asp-controller="SuppliersManager" 
+                   asp-action="Update"
+                   asp-route-id="@item.SupplierID" class="linkbutton">Update</a> 
+            </td>
+            <td>
+                <a asp-controller="SuppliersManager" 
+                   asp-action="Delete"
+                   asp-route-id="@item.SupplierID" class="linkbutton">Delete</a> 
+            </td>
+        </tr>
+    }
+</table>

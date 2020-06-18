@@ -1,0 +1,82 @@
+@model Products
+
+<h2>Delete Existing Product</h2>
+
+<h3 class="message">
+    Warning : You are about to delete a product record.
+</h3>
+
+<form asp-controller="ProductsManager" asp-action="Delete" method="post">
+
+    <input type="hidden" asp-for="ProductID" />
+
+    <table border="0">
+        <tr>
+            <td class="right">
+                <label asp-for="ProductID"></label> :
+            </td>
+            <td>
+                @Model.ProductID
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ProductName"></label> :
+            </td>
+            <td>
+                @Model.ProductName
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="SupplierID"></label> :
+            </td>
+            <td>
+                @Model.SupplierID
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="UnitPrice"></label> :
+            </td>
+            <td>
+                @Model.UnitPrice
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="UnitsInStock"></label> :
+            </td>
+            <td>
+                @Model.UnitsInStock
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="UnitsOnOrder"></label> :
+            </td>
+            <td>
+                @Model.UnitsOnOrder
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Discontinued"></label> :
+            </td>
+            <td>
+                @Model.Discontinued
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button type="submit">Delete</button>
+            </td>
+        </tr>
+
+    </table>
+
+</form>
+
+<br /><br />
+
+<a asp-controller="ProductsManager" asp-action="List">Back to Product Listing</a>

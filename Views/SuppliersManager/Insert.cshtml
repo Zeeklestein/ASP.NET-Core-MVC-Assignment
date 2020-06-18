@@ -1,0 +1,111 @@
+@model Suppliers
+
+<h2>Insert a New Supplier</h2>
+
+<h3 class="message">@ViewBag.Message</h3>
+
+<form asp-controller="SuppliersManager" asp-action="Insert" method="post">
+
+    <table border="0">
+        <tr>
+            <td class="right">
+                <label asp-for="CompanyName"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="CompanyName" />
+                <span asp-validation-for="CompanyName" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ContactName"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="ContactName" />
+                <span asp-validation-for="ContactName" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ContactTitle"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="ContactTitle" />
+                <span asp-validation-for="ContactTitle" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Address"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="Address" />
+                <span asp-validation-for="Address" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="City"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="City" />
+                <span asp-validation-for="City" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Region"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="Region" />
+                <span asp-validation-for="Region" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="PostalCode"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="PostalCode" />
+                <span asp-validation-for="PostalCode" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Country"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="Country" />
+                <span asp-validation-for="Country" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Phone"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="Phone" />
+                <span asp-validation-for="Phone" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Fax"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="Fax" />
+                <span asp-validation-for="Fax" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button type="submit">Save</button>
+            </td>
+        </tr>
+    </table>
+
+</form>
+
+<br /><br />
+
+<a asp-controller="SuppliersManager" asp-action="List">Back to Supplier Listing</a>

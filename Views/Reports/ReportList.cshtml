@@ -1,0 +1,49 @@
+@model Products
+
+<h2>Reports</h2>
+
+<br />
+
+<h3 class="message">@ViewBag.Message</h3>
+
+<br />
+
+<form asp-controller="Reports" asp-action="DiscontinuedTrueOrFalse" method="post">
+    <h3> Discontinued Products Report </h3>
+    <table border="0">
+        <tr>
+            <td>
+                Select Discontinued Products : 
+            </td>
+            <td>
+                <select asp-for="Discontinued" asp-items="@ViewBag.ProductsBool">
+                <option value="">Please select</option>
+                </select>
+            </td>
+            <td>
+                <button type="submit">View</button>
+            </td>
+        </tr>
+    </table>
+</form>
+
+<br /><br />
+
+<form asp-controller="Reports" asp-action="SupplierProducts" method="post">
+    <h3> Products By Supplier Report </h3>
+    <table border="0">
+        <tr>
+            <td>
+                Select Supplier :
+            </td>
+            <td>
+                <select asp-for="SupplierID" asp-items="@ViewBag.ProductsSupplier">
+                    <option value="">Please select</option>
+                </select>
+            </td>
+            <td>
+                <button type="submit">View</button>
+            </td>
+        </tr>
+    </table>
+</form>

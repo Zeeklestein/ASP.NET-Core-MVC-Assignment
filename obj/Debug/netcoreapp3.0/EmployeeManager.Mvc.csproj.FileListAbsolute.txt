@@ -1,0 +1,192 @@
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/appsettings.json
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/EmployeeManager.Mvc
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/EmployeeManager.Mvc.deps.json
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/EmployeeManager.Mvc.runtimeconfig.json
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/EmployeeManager.Mvc.runtimeconfig.dev.json
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/EmployeeManager.Mvc.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/EmployeeManager.Mvc.pdb
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/EmployeeManager.Mvc.Views.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/EmployeeManager.Mvc.Views.pdb
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.csprojAssemblyReference.cache
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.AssemblyInfoInputs.cache
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.AssemblyInfo.cs
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.csproj.CoreCompileInputs.cache
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.MvcApplicationPartsAssemblyInfo.cache
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.RazorAssemblyInfo.cache
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.RazorAssemblyInfo.cs
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.TagHelpers.input.cache
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.TagHelpers.output.cache
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.RazorCoreGenerate.cache
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/Razor/Views/EmployeeManager/Delete.cshtml.g.cs
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/Razor/Views/EmployeeManager/Insert.cshtml.g.cs
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/Razor/Views/EmployeeManager/List.cshtml.g.cs
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/Razor/Views/EmployeeManager/Update.cshtml.g.cs
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/Razor/Views/Security/AccessDenied.cshtml.g.cs
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/Razor/Views/Security/Register.cshtml.g.cs
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/Razor/Views/Security/SignIn.cshtml.g.cs
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.RazorTargetAssemblyInfo.cache
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.RazorTargetAssemblyInfo.cs
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.Views.pdb
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.csproj.CopyComplete
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/staticwebassets/EmployeeManager.Mvc.StaticWebAssets.Manifest.cache
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/staticwebassets/EmployeeManager.Mvc.StaticWebAssets.xml
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.dll
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.pdb
+/home/jim/Development/dotnet/boxhill/src/ictdbs504/EmployeeManager.Mvc/obj/Debug/netcoreapp3.0/EmployeeManager.Mvc.genruntimeconfig.cache
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.exe
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.deps.json
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.runtimeconfig.json
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.runtimeconfig.dev.json
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.pdb
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.Views.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.Views.pdb
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.AssemblyInfoInputs.cache
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.AssemblyInfo.cs
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.RazorAssemblyInfo.cache
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.RazorAssemblyInfo.cs
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.TagHelpers.input.cache
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.TagHelpers.output.cache
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.RazorCoreGenerate.cache
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\EmployeeManager\Delete.cshtml.g.cs
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\EmployeeManager\Insert.cshtml.g.cs
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\EmployeeManager\List.cshtml.g.cs
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\EmployeeManager\Update.cshtml.g.cs
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\Security\AccessDenied.cshtml.g.cs
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\Security\Register.cshtml.g.cs
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\Security\SignIn.cshtml.g.cs
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.RazorTargetAssemblyInfo.cache
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.RazorTargetAssemblyInfo.cs
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.Views.pdb
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.csproj.CopyComplete
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\staticwebassets\EmployeeManager.Mvc.StaticWebAssets.Manifest.cache
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\staticwebassets\EmployeeManager.Mvc.StaticWebAssets.xml
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.dll
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.pdb
+C:\Users\Ben\Desktop\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.genruntimeconfig.cache
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\appsettings.json
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.exe
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.deps.json
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.runtimeconfig.json
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.runtimeconfig.dev.json
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.pdb
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.Views.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\EmployeeManager.Mvc.Views.pdb
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.csprojAssemblyReference.cache
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.AssemblyInfoInputs.cache
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.AssemblyInfo.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.csproj.CoreCompileInputs.cache
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.MvcApplicationPartsAssemblyInfo.cache
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.RazorAssemblyInfo.cache
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.RazorAssemblyInfo.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.TagHelpers.input.cache
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.TagHelpers.output.cache
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.RazorCoreGenerate.cache
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\EmployeeManager\Delete.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\EmployeeManager\Insert.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\EmployeeManager\List.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\EmployeeManager\Update.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\Security\AccessDenied.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\Security\Register.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\Security\SignIn.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.RazorTargetAssemblyInfo.cache
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.RazorTargetAssemblyInfo.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.Views.pdb
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.csproj.CopyComplete
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\staticwebassets\EmployeeManager.Mvc.StaticWebAssets.Manifest.cache
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\staticwebassets\EmployeeManager.Mvc.StaticWebAssets.xml
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.dll
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.pdb
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\EmployeeManager.Mvc.genruntimeconfig.cache
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\OrdersManager\List.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\SuppliersManager\List.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\OrdersManager\Delete.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\OrdersManager\Insert.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\OrdersManager\Update.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\ProductsManager\List.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\Reports\ReportList.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\Reports\SupplierProducts.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\ProductsManager\Update.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\ProductsManager\Insert.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\Reports\DiscontinuedTrueOrFalse.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\SuppliersManager\Insert.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\SuppliersManager\Update.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\SuppliersManager\Delete.cshtml.g.cs
+F:\Tafe\Semester 2\ICTDBS504 Integrate Database with a Website\EmployeeDBExample\EmployeeManager.Mvc\EmployeeManager.Mvc\obj\Debug\netcoreapp3.0\Razor\Views\ProductsManager\Delete.cshtml.g.cs

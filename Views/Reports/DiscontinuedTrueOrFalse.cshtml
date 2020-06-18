@@ -1,0 +1,32 @@
+@model List<Products>
+
+<h2>Discontinued Report</h2>
+<br />
+
+<a asp-controller="Reports" asp-action="ReportList">Back to Reports</a>
+<br />
+<br />
+<table border="1">
+    <tr>
+        <th>Product ID</th>
+        <th>Product Name</th>
+        <th>Supplier ID</th>
+        <th>Unit Price</th>
+        <th>Units in Stock</th>
+        <th>Units on Order</th>
+        <th>Discontinued?</th>       
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.ProductID</td>
+            <td>@item.ProductName</td>
+            <td>@item.SupplierID</td>
+            <td>@item.UnitPrice</td>
+            <td>@item.UnitsInStock</td>
+            <td>@item.UnitsOnOrder</td>
+            <td>@item.Discontinued</td>
+
+        </tr>
+    }
+</table>

@@ -1,0 +1,144 @@
+@model Orders
+
+<h2>Update Existing Order</h2>
+
+
+<h3 class="message">@ViewBag.Message</h3>
+
+<form asp-controller="OrdersManager" asp-action="Update" method="post">
+
+    <table border="0">
+        <tr>
+            <td class="right">
+                <label asp-for="OrderID"></label> :
+            </td>
+            <td>
+                <input type="hidden" asp-for="OrderID" />
+                <span>@Model.OrderID</span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="CustomerID"></label> :
+            </td>
+            <td>
+                <input type="text" asp-for="CustomerID" />
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="EmployeeID"></label> :
+            </td>
+            <td>
+                <select asp-for="EmployeeID" asp-items="@ViewBag.Employees">
+                    <option value="">Please select</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="OrderDate"></label> :
+            </td>
+            <td>
+                <input type="date" asp-for="OrderDate" />
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="RequiredDate"></label> :
+            </td>
+            <td>
+                <input type="date" asp-for="RequiredDate" />
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShippedDate"></label> :
+            </td>
+            <td>
+                <input type="date" asp-for="ShippedDate" />
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipVia"></label> :
+            </td>
+            <td>
+                <select asp-for="ShipVia" asp-items="@ViewBag.Shippers">
+                    <option value="">Please select</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Freight"></label> :
+            </td>
+            <td>
+                <input type="number" asp-for="Freight" />
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipName"></label> :
+            </td>
+            <td>
+                <input type="text" asp-for="ShipName" />
+                <span asp-validation-for="ShipName" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipAddress"></label> :
+            </td>
+            <td>
+                <input type="text" asp-for="ShipAddress" />
+                <span asp-validation-for="ShipAddress" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipCity"></label> :
+            </td>
+            <td>
+                <input type="text" asp-for="ShipCity" />
+                <span asp-validation-for="ShipCity" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipRegion"></label> :
+            </td>
+            <td>
+                <input type="text" asp-for="ShipRegion" />
+                <span asp-validation-for="ShipRegion" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipPostalCode"></label> :
+            </td>
+            <td>
+                <input type="text" asp-for="ShipPostalCode" />
+                <span asp-validation-for="ShipPostalCode" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipCountry"></label> :
+            </td>
+            <td>
+                <input type="text" asp-for="ShipCountry" />
+                <span asp-validation-for="ShipCountry" class="message"></span>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button type="submit">Save</button>
+            </td>
+        </tr>
+    </table>
+</form>
+
+<br /><br />
+
+<a asp-controller="OrdersManager" asp-action="List">Back to Order Listing</a>

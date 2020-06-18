@@ -1,0 +1,137 @@
+@model Orders
+
+<h2>Delete Existing Order</h2>
+
+<h3 class="message">
+    Warning : You are about to delete an order record.
+</h3>
+
+<form asp-controller="OrdersManager" asp-action="Delete" method="post">
+
+    <input type="hidden" asp-for="OrderID" />
+
+
+    <table border="0">
+        <tr>
+            <td class="right">
+                <label asp-for="OrderID"></label> :
+            </td>
+            <td>
+                @Model.OrderID
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="CustomerID"></label> :
+            </td>
+            <td>
+                @Model.CustomerID
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="EmployeeID"></label> :
+            </td>
+            <td>
+                @Model.EmployeeID
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="OrderDate"></label> :
+            </td>
+            <td>
+                @Model.OrderDate.ToString("dd MMMM yyyy")
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="RequiredDate"></label> :
+            </td>
+            <td>
+                @Model.RequiredDate.ToString("dd MMMM yyyy")
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShippedDate"></label> :
+            </td>
+            <td>
+                @Model.ShippedDate
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipVia"></label> :
+            </td>
+            <td>
+                @Model.ShipVia
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Freight"></label> :
+            </td>
+            <td>
+                @Model.Freight
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipName"></label> :
+            </td>
+            <td>
+                @Model.ShipName
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipAddress"></label> :
+            </td>
+            <td>
+                @Model.ShipAddress
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipCity"></label> :
+            </td>
+            <td>
+                @Model.ShipCity
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipRegion"></label> :
+            </td>
+            <td>
+                @Model.ShipRegion
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipPostalCode"></label> :
+            </td>
+            <td>
+                @Model.ShipPostalCode
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ShipCountry"></label> :
+            </td>
+            <td>
+                @Model.ShipCountry
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button type="submit">Delete</button>
+            </td>
+        </tr>
+    </table>
+</form>
+
+<br /><br />
+
+<a asp-controller="OrdersManager" asp-action="List">Back to Order Listing</a>

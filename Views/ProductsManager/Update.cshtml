@@ -1,0 +1,79 @@
+@model Products
+
+<h2>Update Existing Product</h2>
+
+<h3 class="message">@ViewBag.Message</h3>
+
+<form asp-controller="ProductsManager" asp-action="Update" method="post">
+
+    <table border="0">
+        <tr>
+            <td class="right">
+                <label asp-for="ProductID"></label> :
+            </td>
+            <td>
+                <input type="hidden" asp-for="ProductID" />
+                <span>@Model.ProductID</span>
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ProductName"></label> :
+            </td>
+            <td>
+                <input type="text" asp-for="ProductName" />
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="SupplierID"></label> :
+            </td>
+            <td>
+                <input type="number" asp-for="SupplierID" />
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="UnitPrice"></label> :
+            </td>
+            <td>
+                <input type="number" asp-for="UnitPrice" />
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="UnitsInStock"></label> :
+            </td>
+            <td>
+                <input type="number" asp-for="UnitsInStock" />
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="UnitsOnOrder"></label> :
+            </td>
+            <td>
+                <input type="number" asp-for="UnitsOnOrder" />
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Discontinued"></label> :
+            </td>
+            <td>
+                <input type="checkbox" asp-for="Discontinued" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button type="submit">Save</button>
+            </td>
+        </tr>
+        
+    </table>
+
+</form>
+
+<br /><br />
+
+<a asp-controller="ProductsManager" asp-action="List">Back to Product Listing</a>

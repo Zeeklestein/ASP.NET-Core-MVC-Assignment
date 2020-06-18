@@ -1,0 +1,106 @@
+@model Suppliers
+
+<h2>Delete Existing Order</h2>
+
+<h3 class="message">
+    Warning : You are about to delete a supplier record.
+</h3>
+
+<h3 class="message">@ViewBag.Message</h3>
+
+<form asp-controller="SuppliersManager" asp-action="Delete" method="post">
+
+    <input type="hidden" asp-for="SupplierID" />
+
+    <table border="0">
+        <tr>
+            <td class="right">
+                <label asp-for="SupplierID"></label> :
+            </td>
+            <td>
+                @Model.SupplierID
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="CompanyName"></label> :
+            </td>
+            <td>
+                @Model.CompanyName
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="ContactName"></label> :
+            </td>
+            <td>
+                @Model.ContactName
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Address"></label> :
+            </td>
+            <td>
+                @Model.Address
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="City"></label> :
+            </td>
+            <td>
+                @Model.City
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Region"></label> :
+            </td>
+            <td>
+                @Model.Region
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="PostalCode"></label> :
+            </td>
+            <td>
+                @Model.PostalCode
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Country"></label> :
+            </td>
+            <td>
+                @Model.Country
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Phone"></label> :
+            </td>
+            <td>
+                @Model.Phone
+            </td>
+        </tr>
+        <tr>
+            <td class="right">
+                <label asp-for="Fax"></label> :
+            </td>
+            <td>
+                @Model.Fax
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button type="submit">Delete</button>
+            </td>
+        </tr>
+    </table>
+</form>
+
+<br /><br />
+
+<a asp-controller="SuppliersManager" asp-action="List">Back to Supplier Listing</a>

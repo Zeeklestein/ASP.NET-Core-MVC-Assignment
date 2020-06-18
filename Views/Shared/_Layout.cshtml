@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Northwind DB Manager</title>
+    <link href="~/Styles/site.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <a class="navbar-brand" asp-controller="EmployeeManager" asp-action="List">Employees</a> |
+            <a class="navbar-brand" asp-controller="OrdersManager" asp-action="List">Orders</a> |
+            <a class="navbar-brand" asp-controller="SuppliersManager" asp-action="List">Suppliers</a> |
+            <a class="navbar-brand" asp-controller="ProductsManager" asp-action="List">Products</a> |
+            <a class="navbar-brand" asp-controller="Reports" asp-action="ReportList">Reports</a>
+        </nav>
+    </header>
+    <h1>
+        Northwind DB Manager
+    </h1>
+    <hr />
+    <div>
+        @RenderBody()
+    </div>
+    <br />
+    <hr />
+    @if (User.Identity.IsAuthenticated)
+    {
+        <h2>You are signed in as @User.Identity.Name</h2>
+        <form asp-controller="Security" asp-action="SignOut" method="post">
+            <button type="submit">Sign Out</button>
+        </form>
+    }
+</body>
+</html>
